@@ -19,8 +19,8 @@
 
 ### App Walkthough GIF
 
+<img src='https://raw.githubusercontent.com/Jimmy-2/Flixter/master/FlixsterPart2.gif' title='Flixster App' width='' alt='Flixster' />
 
-<img src="https://raw.githubusercontent.com/Jimmy-2/Flixter/master/FlixsterPart2.gif" width=250><br>
 
 ### Notes
 
